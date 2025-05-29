@@ -8,12 +8,8 @@ SimuWeave Lab—an advanced body-mounted computing platform dedicated to solving
 
 ## 程序架构：
 
-![img](github_picture/研究框架图.jpg)
-
+<img src="github_picture/研究框架图.jpg"  />
 ## 仿真结果：
-
-![img](github_picture/walking_and_falled.gif)
-
 
 <img src="github_picture/walking_and_falled.gif"  />
 
