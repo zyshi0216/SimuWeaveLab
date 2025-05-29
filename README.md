@@ -24,6 +24,11 @@ To establish SimuWeave Lab as a global leader in simulation and prototyping of f
 
 <img src="github_picture/walking_and_falled.gif"  />
 
+
+<img src="github_picture/mult.gif"  />
+
+
+
 ## SimuWeaveLab application
 
 ### 通过合成-真实数据融合实现罕见动作超鲁棒检测
