@@ -15,5 +15,5 @@ SimuWeave Lab—an advanced body-mounted computing platform dedicated to solving
 ![img](github_picture/walking_and_falled.gif)
 
 
-<img src="图片/ad1.gif"  />
+<img src="github_picture/walking_and_falled.gif"  />
 
